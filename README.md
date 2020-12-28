@@ -1,9 +1,14 @@
 # Thi_KTM_WebTM
 Họ và Tên : Nguyễn Văn Ngọc
+<br>
 Lớp : CTT12CD3A
+<br>
 Thi Môn : Xây Dựng Website Thương Mại
+<br>
 Ngày : 28/12/2020
+<br>
 Nội Dung :
+<br>
 Phần :Trang Chủ 
 <br>
 ![image](https://user-images.githubusercontent.com/56054516/103189284-867a7f00-48fe-11eb-8cb4-bf4dc3f3cd79.png)
